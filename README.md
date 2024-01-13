@@ -11,3 +11,6 @@ https://edaplayground.com/x/PC8z
 
 Day:50 MOD-6 counter.v
 https://edaplayground.com/x/rf7p
+
+Day:51 RAM.v
+https://edaplayground.com/x/ZvvT
