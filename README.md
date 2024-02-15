@@ -3,6 +3,9 @@ Counter: 👉 4-bit Synchronous Up counter: ● A four-bit synchronous up counte
 
 👉 Up/Down Counter: ● An up/down counter is a digital electronic device that can count either up or down depending on the control signal. ● It can increment or decrement its count based on the input signals it receives. ● The control signal (commonly denoted as "upordown") determines the direction of the counting process. ● When it's set to '1', the counter counts up; when set to '0', the counter counts down.
 
+Day19 4BIT-Comparator using 2BIT-Comparator.v
+https://edaplayground.com/x/LXGZ
+
 Day21: Binary to Gray Code.v
 https://edaplayground.com/x/BBV9
 
