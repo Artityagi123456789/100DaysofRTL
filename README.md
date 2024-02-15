@@ -12,6 +12,9 @@ https://edaplayground.com/x/BBV9
 Day21(ii) Gray Code to Binary Converter.v
 https://edaplayground.com/x/eEVt
 
+Day40 : Priority Encoder.v
+https://edaplayground.com/x/L3Zc
+
 Day:43 4bit_synchrouns_up_counter.v
 https://edaplayground.com/x/eQzx
 
