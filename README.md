@@ -12,6 +12,9 @@ https://edaplayground.com/x/BBV9
 Day21(ii) Gray Code to Binary Converter.v
 https://edaplayground.com/x/eEVt
 
+Day26 Clock  Genration 20MHz Frequency.v
+https://edaplayground.com/x/7nwh
+
 Day40 : Priority Encoder.v
 https://edaplayground.com/x/L3Zc
 
